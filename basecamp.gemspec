@@ -13,7 +13,7 @@ Gem::Specification.new do |gem|
   
   gem.add_dependency  'oauth2'
   gem.add_dependency  'xml-simple'
-  gem.add_dependency  'activeresource', '>= 2.3.0'
+  gem.add_dependency  'activeresource', '>= 4.1.0'
   
   gem.add_development_dependency 'rake'
   gem.add_development_dependency 'mg',        '>= 0.0.8'
